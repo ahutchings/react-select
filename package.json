@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "classnames": "^2.1.1",
-    "react-input-autosize": "^0.4.3"
+    "react-input-autosize": "ahutchings/react-input-autosize#7a9fce19cee965c1ae26674ab05715a736a85317"
   },
   "devDependencies": {
     "babel-eslint": "^3.1.1",
